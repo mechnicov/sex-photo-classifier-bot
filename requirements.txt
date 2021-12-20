@@ -1,0 +1,11 @@
+keras-preprocessing==1.1.2
+kaggle==1.5.12
+tensorflow==2.6.0
+keras==2.6
+pyTelegramBotAPI==3.7.3
+telebot
+python-telegram-bot==12.8
+python-dotenv
+pillow
+scipy
+requests
