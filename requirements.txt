@@ -9,3 +9,4 @@ python-dotenv
 pillow
 scipy
 requests
+protobuf==3.20.*
